@@ -1,5 +1,5 @@
-# <p style="text-align: center;">Hi I am VaibhavRohilla :<br></p>
-# <p style="text-align: center;">I really have no idea what i am doing <br></p>
+<p style="text-align: center; font-size: 2em; font-weight: bold;">Hi I am VaibhavRohilla :</p>
+<p style="text-align: center; font-size: 1.2em;">I really have no idea what I am doing</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-rohilla-097656255) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavrohilla03@gmail.com) 
